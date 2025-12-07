@@ -1,18 +1,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Konstantin%20Krokhin&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2C5364&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Embedded+%7C+Security+%7C+AI;C+%7C+C%2B%2B+%7C+Python+%7C+.NET;Linux+Drivers+%7C+FreeRTOS+%7C+Cybersecurity;Toronto%2C+Canada">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2C5364&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Security+%7C+AI;C+%7C+C%2B%2B+%7C+Python+%7C+.NET;+%7C+Cybersecurity;Toronto%2C+Canada">
 </p>
 
 ## 👋 About Me
 
 - Software Engineer with **6+ years of experience**
-- Specialized in **AI and Security, Full-Stack, Embedded Systems and Real-Time Software**
+- Specialized in **AI and Security, Full-Stack and Real-Time Software**
 - Background in **AI development, Firmware & Cybersecurity and Satellite Communications**
 - Fluent in **English, Ukrainian, Russian, Polish, German**
 - Based in **Toronto, Canada 🇨🇦**
 
-💡 Currently focused on **AI for developer productivity** and **cybersecurity**.
+💡 Currently focused on **AI for productivity** and **Full-Stack**.
 
 ---
 
@@ -22,6 +22,10 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-orange?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
