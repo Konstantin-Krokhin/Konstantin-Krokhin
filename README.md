@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konstantin-Krokhin&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konstantin-Krokhin&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Konstantin-Krokhin&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Krokhin&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Krokhin&layout=compact&theme=tokyonight&cache_seconds=86400">
 </p>
 
 ---
