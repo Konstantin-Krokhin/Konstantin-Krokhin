@@ -30,12 +30,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Konstantin-Krokhin&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight" width="48%" />
+  <!-- Followers + Stars (Ultra Stable) -->
+  <img src="https://img.shields.io/github/followers/Konstantin-Krokhin?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Konstantin-Krokhin?label=Total%20Stars&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Konstantin-Krokhin&layout=compact&theme=tokyonight">
+  <!-- GitHub Streak (This one is already stable for you) -->
+  <img src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight" width="60%" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph (Native Rendering) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konstantin-Krokhin&theme=tokyo-night" />
 </p>
 
 ---
