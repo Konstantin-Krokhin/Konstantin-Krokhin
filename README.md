@@ -57,10 +57,6 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Konstantin-Krokhin&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 <p align="center">
@@ -68,6 +64,9 @@
 </p>
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstantin-Krokhin&layout=compact)
+
 
 ## 🤝 Connect With Me
 
