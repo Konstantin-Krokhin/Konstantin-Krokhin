@@ -40,14 +40,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight"
-    alt="GitHub Streak"
-    width="60%"
-  />
-</p>
-
-<p align="center">
   <!-- Contribution Graph (Native Rendering) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konstantin-Krokhin&theme=tokyo-night" />
 </p>
