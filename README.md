@@ -6,28 +6,60 @@
 
 ## 👋 About Me
 
-- Software Engineer with **6+ years of experience**
-- Specialized in **AI and Security, Full-Stack and Real-Time Software**
-- Background in **AI development, Firmware & Cybersecurity and Satellite Communications**
-- Fluent in **English, Ukrainian, Russian, Polish, German**
-- Based in **Toronto, Canada 🇨🇦**
+## Hi, I’m Konstantin 👋
 
-💡 Currently focused on **AI for productivity** and **Full-Stack**.
+Software Engineer with **6+ years of experience**, focused on building **practical, production-ready systems**.
+
+### What I do
+- **Full-Stack Development** — React / Next.js, Node.js, PostgreSQL  
+- **AI & Security–aware engineering** — building systems with correctness, safety, and scalability in mind  
+- **Real-time & systems background** — experience with low-level, performance-sensitive software
+
+### Tech Stack
+- **Frontend:** React, Next.js, TypeScript  
+- **Backend:** Node.js  
+- **Database:** PostgreSQL  
+- **DevOps:** Docker, AWS
+- **Tools:** Git, Linux, CI/CD
+
+### Background
+- AI development & applied machine learning
+- Firmware & embedded software
+- Cybersecurity and secure system design
+- Satellite communications & real-time systems
+
+### How I work
+- I ship end-to-end features (frontend → backend → database → deployment)
+- I value clean architecture, debuggability, and maintainable code
+- I use AI as a productivity tool, not a crutch
+
+### Languages
+English • Ukrainian • Russian • Polish • German
+
+📍 Based in **Toronto, Canada 🇨🇦**
+
+➡️ See **pinned repositories** below for real projects and live demos.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-orange?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ---
 
@@ -37,6 +69,7 @@
   <!-- Followers + Stars (Ultra Stable) -->
   <img src="https://img.shields.io/github/followers/Konstantin-Krokhin?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Konstantin-Krokhin?label=Total%20Stars&style=for-the-badge" />
+  
 </p>
 
 <p align="center">
@@ -58,6 +91,15 @@
 ## 🏆 GitHub Trophies
 
 ---
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Konstantin-Krokhin"
+    alt="GitHub Streak (default)"
+    width="70%"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konstantin-Krokhin&style=for-the-badge&color=blue" />
