@@ -40,8 +40,11 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak (This one is already stable for you) -->
-  <img src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight" width="60%" />
+  <img
+    src="https://streak-stats.demolab.com?user=Konstantin-Krokhin&theme=tokyonight"
+    alt="GitHub Streak"
+    width="60%"
+  />
 </p>
 
 <p align="center">
