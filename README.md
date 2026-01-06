@@ -93,15 +93,6 @@ English • Ukrainian • Russian • Polish • German
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Konstantin-Krokhin"
-    alt="GitHub Streak (default)"
-    width="70%"
-  />
-</p>
-
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konstantin-Krokhin&style=for-the-badge&color=blue" />
 </p>
 
