@@ -6,39 +6,25 @@
 
 ## 👋 About Me
 
-## Hi, I’m Konstantin 👋
+Hi, I’m Konstantin.
 
-Software Engineer with **6+ years of experience**, focused on building **practical, production-ready systems**.
+Senior Software Engineer with ~7 years of experience building production-ready
+web, backend, and systems software.
 
-### What I do
-- **Full-Stack Development** — React / Next.js, Node.js, PostgreSQL  
-- **AI & Security–aware engineering** — building systems with correctness, safety, and scalability in mind  
-- **Real-time & systems background** — experience with low-level, performance-sensitive software
+**What I work with**
+- Full-stack development: React / Next.js, Node.js, TypeScript, PostgreSQL
+- Systems background: performance-sensitive, real-time, embedded software
+- AI & security-aware engineering
 
-### Tech Stack
-- **Frontend:** React, Next.js, TypeScript  
-- **Backend:** Node.js  
-- **Database:** PostgreSQL  
-- **DevOps:** Docker, AWS
-- **Tools:** Git, Linux, CI/CD
+**How I work**
+- Ship features end-to-end (frontend → backend → database → deployment)
+- Focus on clean architecture, debuggability, and maintainable code
+- Use AI as a productivity tool, not a substitute for engineering judgment.
 
-### Background
-- AI development & applied machine learning
-- Firmware & embedded software
-- Cybersecurity and secure system design
-- Satellite communications & real-time systems
+📍 Toronto, Canada  
+🌍 English · Ukrainian · Russian · Polish · German
 
-### How I work
-- I ship end-to-end features (frontend → backend → database → deployment)
-- I value clean architecture, debuggability, and maintainable code
-- I use AI as a productivity tool, not a crutch
-
-### Languages
-English • Ukrainian • Russian • Polish • German
-
-📍 Based in **Toronto, Canada 🇨🇦**
-
-➡️ See **pinned repositories** below for real projects and live demos.
+⬇️ See pinned repositories below for real projects and production-style work.
 
 ---
 
