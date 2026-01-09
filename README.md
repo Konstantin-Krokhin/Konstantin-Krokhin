@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Konstantin%20Krokhin&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2C5364&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Security+%7C+AI;C+%7C+C%2B%2B+%7C+Python+%7C+.NET;+%7C+Cybersecurity;Toronto%2C+Canada">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2C5364&center=true&vCenter=true&width=900&lines=Full-stack+Software+Engineer+%7C+Next.js+%2B+NestJS;TypeScript+%7C+Node.js+%7C+PostgreSQL+%7C+Prisma;Azure+%7C+Docker+%7C+GitHub+Actions;Security%3A+OAuth+2.0+%7C+JWT+%7C+RBAC;Toronto%2C+Canada">
 </p>
 
 ## 👋 About Me
@@ -67,10 +67,10 @@ web, backend, and systems software.
 
 ## 🔬 Current Focus
 
-- ✅ AI & LLMs for developer productivity 
-- ✅ Cybersecurity & Ethical Hacking  
-- ✅ Real-time & High-reliability systems  
-- ✅ LeetCode (DSA sharpening)
+- ✅ Full-stack systems (Next.js, NestJS, PostgreSQL, Prisma)
+- ✅ Cloud deployment & CI/CD (Azure, Docker, GitHub Actions)
+- ✅ Security foundations (OAuth 2.0, JSON Web Tokens, Role-Based Access Control)
+- ✅ AI integrations in products (OpenAI API, Hugging Face, Retrieval-Augmented Generation)
 
 ---
 
